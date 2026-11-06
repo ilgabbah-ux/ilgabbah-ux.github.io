@@ -1,10 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "it.endurodrinkingteam.giroeasy",
-    "sha256_cert_fingerprints": [
-      "C4:F0:D3:5A:D1:A5:6E:E1:5A:75:AF:67:60:20:16:53:90:E1:01:DC:54:37:D4:12:9C:76:7F:52:26:52:B8:61"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "it.endurodrinkingteam.giroeasy",
+      "sha256_cert_fingerprints": [
+        "17:B9:B8:34:C6:19:E3:61:ED:24:69:D9:3F:17:BA:7A:6A:83:1C:D1:E4:33:9A:16:52:E0:80:95:0D:D5:67:02",
+        "C4:F0:D3:5A:D1:A5:6E:E1:5A:75:AF:67:60:20:16:53:90:E1:01:DC:54:37:D4:12:9C:76:7F:52:26:52:B8:61"
+      ]
+    }
   }
-}]
+]
