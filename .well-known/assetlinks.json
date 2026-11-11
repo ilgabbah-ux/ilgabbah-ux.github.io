@@ -20,7 +20,8 @@
       "namespace": "android_app",
       "package_name": "it.endurodrinkingteam.kingdom",
       "sha256_cert_fingerprints": [
-        "81:22:22:11:4F:BB:93:3D:D8:83:27:1B:39:27:C4:AC:4A:9D:89:ED:F8:B4:3E:2C:32:B3:5E:79:13:DD:EA:A9"
+        "81:22:22:11:4F:BB:93:3D:D8:83:27:1B:39:27:C4:AC:4A:9D:89:ED:F8:B4:3E:2C:32:B3:5E:79:13:DD:EA:A9",
+        "8D:15:6E:85:E6:FA:D8:47:AC:A7:A8:BE:1A:D1:9B:EA:9C:66:29:BA:A1:2B:CC:27:DD:D0:6C:15:D4:9E:0D:5C"
       ]
     }
   }
