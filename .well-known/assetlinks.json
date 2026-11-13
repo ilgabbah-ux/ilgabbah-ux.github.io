@@ -24,5 +24,17 @@
         "8D:15:6E:85:E6:FA:D8:47:AC:A7:A8:BE:1A:D1:9B:EA:9C:66:29:BA:A1:2B:CC:27:DD:D0:6C:15:D4:9E:0D:5C"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "it.offroadpiemonte.camp4x4",
+      "sha256_cert_fingerprints": [
+        "98:C9:BC:59:8D:AD:BB:5B:A0:E0:5E:15:FF:D1:9C:FD:BE:3F:32:7D:F9:3E:CD:54:CE:79:E3:22:5D:DC:CA:DE"
+      ]
+    }
   }
 ]
